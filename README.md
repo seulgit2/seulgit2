@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello%World!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+</div>
 
 <!--
 **seulgit2/seulgit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
