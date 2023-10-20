@@ -14,6 +14,9 @@
 
 ### 💌 Contact 💌
 
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
+
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
 
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
