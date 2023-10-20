@@ -12,7 +12,9 @@
 
 ### 👀 Use Language 👀
 
-### 💌 blog, email 💌
+### 💌 Contact 💌
+<a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+https://garnet-raptor-461.notion.site/welcome-79b71d07b6b84501ac669dead79a110c?pvs=4
 
 방문자 수, 커밋(사용 언어) 기록
 
