@@ -3,12 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[!Seulgit2's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 <!--
 **seulgit2/seulgit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
