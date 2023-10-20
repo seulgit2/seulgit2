@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-### 💡 A field of interest 💡
+### 💡 Interest 💡
 
 ### 🌟 Active 🌟
 
