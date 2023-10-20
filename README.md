@@ -2,6 +2,8 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
+<div align="center">
+  내용물
 
 ## 관심 분야
 
@@ -14,6 +16,8 @@
 ## 사용 언어
 
 ## 블로그, 이메일
+
+</div>
 
 <!--
 **seulgit2/seulgit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
