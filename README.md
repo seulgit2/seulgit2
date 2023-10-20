@@ -15,7 +15,7 @@
 ### 💌 Contact 💌
 
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=EA4335"/>
 
 <!-- 방문자 수, 커밋(사용 언어) 기록 -->
 
