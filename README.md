@@ -6,22 +6,22 @@
 <div align="center">
 
 <!-- 소개 -->
-### 💡 Interest 💡
+### 💡 관심 분야 💡
 네트워크 보안, 사물인터넷 보안
-### 🌟 Active 🌟
+### 🌟 활동 🌟
 교내 보안 학습동아리 부장
-### 📖 Paper 📖
+### 📖 논문 📖
 |날짜|제목|참여 기관|
 |------|---|---|
 |2023.2.|도로 내 장애물 인식에 관한 연구|한국통신학회|
 |2023.6.|YOLOv7 기반의 작은 물체 추적에 관한 연구|한국통신학회|
-### 📖 Awards 📖
+### 📖 수상 경력 📖
 |날짜|제목|참여 기관|
 |------|---|---|
 |날짜 입력|창의적 종합설계 경진대회|한밭대학교|창의상|
-### 👀 Use Language 👀
+### 👀 사용 언어 👀
 
-### 💌 Contact 💌
+### 💌 연락처 💌
 
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:seulki00228@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seulki00228@gmail.com"/></a>
