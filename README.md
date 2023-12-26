@@ -1,7 +1,5 @@
 <!-- 제목 -->
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
 <!-- 소개 -->
