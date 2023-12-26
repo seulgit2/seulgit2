@@ -38,7 +38,7 @@
 
 ### 👀 사용 언어 👀
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
-<img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-FFD400?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 💌 연락처 💌
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
