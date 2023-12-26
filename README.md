@@ -40,6 +40,7 @@
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://img.shields.io/badge/Python-FFD400?style=flat-square&logo=Python&logoColor=white"/></a>
 
+### 📊 통계 📊
 ![seulgit2's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulgit2&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulgit2&layout=compact)
 
@@ -47,8 +48,6 @@
 ### 💌 연락처 💌
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:seulki00228@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seulki00228@gmail.com"/></a>
-
-<!-- 방문자 수, 커밋(사용 언어) 기록 -->
 
 </div>
 
