@@ -31,15 +31,16 @@
 |2023.11.|학술대회 학부 우수논문(공동저자)|한국통신학회|장려상|
 |2023.11.|Hack The Drone(L2SK팀)|한국드론보안협회|-|
 
-### 자격증
+### 📚 자격증 📚
 |취득 날짜|이름|비고|
 |------|---|---|
 |23.10.|TOPCIT|345점|
 
 ### 👀 사용 언어 👀
+<!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
+<img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 💌 연락처 💌
-
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:seulki00228@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seulki00228@gmail.com"/></a>
 
