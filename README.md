@@ -40,7 +40,8 @@
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://img.shields.io/badge/Python-FFD400?style=flat-square&logo=Python&logoColor=white"/></a>
 
-![seulgit2's github stats](https://github-readme-stats.vercel.app/api?username=seulgit2)
+<!-- ![seulgit2's github stats](https://github-readme-stats.vercel.app/api?username=seulgit2) -->
+github-readme-stats.vercel.app/api?username={사용자명}&show_icons=true
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seulgit2&layout=compact)
 
 
