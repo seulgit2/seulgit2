@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 <div align="center">
-
+<div align="center">
 <!-- 소개 -->
 ### 💡 관심 분야 💡
 네트워크 보안, 사물인터넷 보안
@@ -50,6 +50,8 @@
 <a href="https://garnet-raptor-461.notion.site/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:seulki00228@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seulki00228@gmail.com"/></a>
 
+  내용물
+</div>
 </div>
 
 <!--
