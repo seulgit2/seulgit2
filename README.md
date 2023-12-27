@@ -1,7 +1,7 @@
 <div align="center">
 <!-- 제목 -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&desc=This%is%seulgit2's%playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <!-- 소개 -->
 
