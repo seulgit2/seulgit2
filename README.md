@@ -1,7 +1,7 @@
 <div align="center">
 <!-- 제목 -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&desc=This%20is%20seulgit2's%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&desc=This%20is%20seulgit2's%20playground.%20&fontSize=90&descSize=100&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <!-- 소개 -->
 
@@ -20,7 +20,7 @@
 |2023.2.|도로 내 장애물 인식에 관한 연구|한국통신학회|장려상|
 |2023.6.|YOLOv7 기반의 작은 물체 추적에 관한 연구|한국통신학회|-|
 |2023.11.|다중 GPS 모듈 기반의 측위 정확도 개선에 관한 연구(공동저자)|한국통신학회|장려상|
-|2023.11.|LSTM 기반의 WiFi 인증 해제 공격 검출에 관한 연구(공동저자)|한국통신학회|장려상|
+|2023.11.|LSTM 기반의 WiFi 인증 해제 공격 검출에 관한 연구(공동저자)|한국통신학회|-|
 
 ### 📖 대회&공모전 📖
 |날짜|제목|참여 기관|수상 내역|
