@@ -1,9 +1,7 @@
 <div align="center">
 <!-- 제목 -->
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&desc=Thisisseulgit2'splayground.&fontSize=100&descSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&desc=Thisisseulgit2'splayground.&fontSize=100&descSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=55&fontAlign=80)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
 
 <!-- 소개 -->
 
